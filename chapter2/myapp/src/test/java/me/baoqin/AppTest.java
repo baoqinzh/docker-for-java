@@ -1,4 +1,4 @@
-package me.arungupta;
+package me.baoqin;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

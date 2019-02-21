@@ -1,4 +1,4 @@
-package me.arungupta;
+package me.baoqin;
 
 /**
  * Hello world!
